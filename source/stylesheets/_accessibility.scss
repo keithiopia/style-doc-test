@@ -7,3 +7,12 @@ a:focus {
   background-color: $focus-colour;
   outline: 3px solid $focus-colour;
 }
+
+.visually-hidden {
+  position: absolute;
+  left: -9999em;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden
+}

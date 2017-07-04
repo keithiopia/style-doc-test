@@ -1,10 +1,24 @@
 # Hello, World!
 
-## Edit Me!
+## First level 2 heading
 
 Open `source/documentation/index.md` in your favourite text editor and start editing!
 
 You can write content in [Markdown](https://daringfireball.net/projects/markdown/) using **all** of the _usual_ syntax that you're used to!
+
+<details>
+  <summary><span class="summary">Help with nationality</span></summary>
+  <div class="panel panel-border-narrow">
+  <p>
+    If you’re not sure about your nationality, try to find out from an official document like a passport or national ID card.
+  </p>
+  <p>
+    We need to know your nationality so we can work out which elections you’re entitled to vote in. If you can’t provide your nationality, you’ll have to send copies of identity documents through the post.
+  </p>
+  </div>
+</details>
+
+## Second level 2 heading
 
 To change the title of the page or include additional files you'll need to edit `source/index.html.md.erb`.
 

@@ -1,3 +1,4 @@
+//= require _vendor/details.polyfill
 //= require _vendor/jquery
 //= require _vendor/modernizr
 //= require _vendor/fixedsticky

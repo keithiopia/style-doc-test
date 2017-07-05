@@ -1,13 +1,13 @@
-# Hello, World!
+# Guidance for government publishing page
 
-## First level 2 heading
+What do I put on this page?
 
 Open `source/documentation/index.md` in your favourite text editor and start editing!
 
 You can write content in [Markdown](https://daringfireball.net/projects/markdown/) using **all** of the _usual_ syntax that you're used to!
 
 <details>
-  <summary><span class="summary">Help with nationality</span></summary>
+  <summary><span class="summary anchored-heading">Help with nationality</span></summary>
   <div class="panel panel-border-narrow">
   <p>
     If you’re not sure about your nationality, try to find out from an official document like a passport or national ID card.
@@ -15,6 +15,13 @@ You can write content in [Markdown](https://daringfireball.net/projects/markdown
   <p>
     We need to know your nationality so we can work out which elections you’re entitled to vote in. If you can’t provide your nationality, you’ll have to send copies of identity documents through the post.
   </p>
+  </div>
+</details>
+
+<details>
+  <summary><span id="progressive" class="summary anchored-heading">Progressive test</span></summary>
+  <div class="panel panel-border-narrow">
+    If you’re not sure about your nationality, try to find out from an official document like a passport or national ID card.
   </div>
 </details>
 

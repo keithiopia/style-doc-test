@@ -1,5 +1,5 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: style-guide-test.herokuapp.com
+host: https://keithiopia.github.io/style-doc-test/
 
 # Header-related options
 show_govuk_logo: true

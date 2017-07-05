@@ -1,0 +1,55 @@
+<h1 id="b">B</h1>
+<p>bacs (bankers automated clearing system), banned words, baseline, behavioural insights team, bereavement payment, blind persons allowance, board, bold, borough council, brackets, britain, btec national diploma, bullet points steps, business continuity management, business plan, business statement</p>
+<h3 id="bacs-bankers-automated-clearing-system">Bacs (Bankers Automated Clearing System)</h3>
+<p>Acronym should come first as it&rsquo;s more widely known than the full name. Please note that the acronym has changed to Bacs.</p>
+<h3 id="banned-words">banned words</h3>
+<p>See <a href="#words-to-avoid">Words to avoid</a></p>
+<h3 id="baseline">baseline</h3>
+<p>One word, lower case.</p>
+<h3 id="behavioural-insights-team">Behavioural Insights team</h3>
+<p>Upper case if it&rsquo;s a specific, named team. Always lower case for team and generic names like research team, youth offending team.</p>
+<h3 id="bereavement-payment">Bereavement Payment</h3>
+<p>Upper case.</p>
+<h3 id="blind-person-39-s-allowance">Blind Person&rsquo;s Allowance</h3>
+<p>Upper case.</p>
+<h3 id="board">board</h3>
+<p>Always lower case unless it&rsquo;s part of a proper title: so upper case for the Judicial Executive Board, but lower case for the DFT&rsquo;s management board.</p>
+<h3 id="bold">bold</h3>
+<p>Don’t use bold. It can distract the user and it makes the text longer and more confusing for users of screen readers. Use headings or <a href="#bullet-points-steps">bullets</a> instead if you want to emphasise particular words or sections.</p>
+<h3 id="borough-council">borough council</h3>
+<p>Lower case even in a name: Northampton borough council.</p>
+<h3 id="brackets">brackets</h3>
+<p>Use (round brackets), not [square brackets]. The only acceptable use of square brackets is for explanatory notes in reported speech:</p>
+
+<p>&ldquo;Thank you [Foreign Minister] Mr Smith.&rdquo;</p>
+
+<p>Don&rsquo;t use round brackets to refer to something that could either be singular or plural, like &lsquo;Check which document(s) you need to send to DVLA.&rsquo;</p>
+
+<p>Always use the plural instead, as this will cover each possibility: &#39;Check which documents you need to send to DVLA.&rsquo;</p>
+<h3 id="britain">Britain</h3>
+<p>See <a href="#great-britain">Great Britain</a></p>
+<h3 id="btec-national-diploma">BTEC National Diploma</h3>
+<p>Upper case.</p>
+<h3 id="bullet-points-and-steps">bullet points and steps</h3>
+<p>{:#bullet-points-steps}</p>
+
+<p>You can use bullet points to make text easier to read. Make sure that:</p>
+
+<ul>
+<li>you always use a lead-in line</li>
+<li>the bullets make sense running on from the lead-in line</li>
+<li>you use lower case at the start of the bullet</li>
+<li>you don’t use more than one sentence per bullet point - use commas or dashes to expand on an item</li>
+<li>you don’t put ‘or’ or ‘and’ after the bullets</li>
+<li>if you add links they appear within the text and not as the whole bullet</li>
+<li>you don&rsquo;t put a semicolon at the end of a bullet</li>
+<li>there is no full stop after the last bullet point</li>
+</ul>
+<h4 id="steps">steps</h4>
+<p>Use numbered steps instead of bullet points to guide a user through a process. You don&rsquo;t need a lead-in line and you can use links and downloads (with <a href="https://www.gov.uk/guidance/how-to-publish-on-gov-uk/markdown#numbered-list">appropriate Markdown</a>) in steps. Steps end in a full stop because each should be a complete sentence.</p>
+<h3 id="business-continuity-management">business continuity management</h3>
+<p>Lower case.</p>
+<h3 id="business-plan">business plan</h3>
+<p>Lower case. Don’t use upper case even in the title of a business plan publication.</p>
+<h3 id="business-statement">business statement</h3>
+<p>Lower case.</p>

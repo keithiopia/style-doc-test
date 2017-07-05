@@ -1,0 +1,31 @@
+<h1 id="guidance-for-government-publishing-page">Guidance for government publishing page</h1>
+<p>What do I put on this page?</p>
+
+<p>Open <code>source/documentation/index.md</code> in your favourite text editor and start editing!</p>
+
+<p>You can write content in <a href="https://daringfireball.net/projects/markdown/">Markdown</a> using <strong>all</strong> of the <em>usual</em> syntax that you&rsquo;re used to!</p>
+
+<p><details>
+  <summary><span class="summary anchored-heading">Help with nationality</span></summary>
+  <div class="panel panel-border-narrow">
+  <p>
+    If you’re not sure about your nationality, try to find out from an official document like a passport or national ID card.
+  </p>
+  <p>
+    We need to know your nationality so we can work out which elections you’re entitled to vote in. If you can’t provide your nationality, you’ll have to send copies of identity documents through the post.
+  </p>
+  </div>
+</details></p>
+
+<p><details>
+  <summary><span id="progressive" class="summary anchored-heading">Progressive test</span></summary>
+  <div class="panel panel-border-narrow">
+    If you’re not sure about your nationality, try to find out from an official document like a passport or national ID card.
+  </div>
+</details></p>
+<h2 id="second-level-2-heading">Second level 2 heading</h2>
+<p>To change the title of the page or include additional files you&rsquo;ll need to edit <code>source/index.html.md.erb</code>.</p>
+
+<p>If you want slightly more control, you can always use <strong>HTML</strong>.</p>
+
+<p>For more detail and troubleshooting, take a look at the <code>README.md</code> file in the root of this project.</p>
